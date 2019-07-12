@@ -1,0 +1,210 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('/portfolio/images/black-and-white-boardroom-ceiling-260689.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: -58px;
+    
+  }
+.navbar{
+    z-index: 10;
+    background: transparent; 
+    font-size: 15px;
+}
+.navbar-brand{
+    font-size:25px;
+}
+
+
+
+
+.top{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+body{
+    margin: 0;
+    text-align: center;
+   font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+p{
+    line-height: 2;
+}
+h1{
+    font-size:3.0rem;
+    margin: 50px auto 0 auto;
+    color: #66bfbf;
+}
+h2{
+    font-size:2.5rem;
+     color: #66bfbf;
+    font-weight: normal;
+}
+h3{
+     color: #11999E;
+    text-align: left;
+}
+.middle{
+    height: 200px;
+    width:200px;
+    background-color: blue;
+}
+.bottom-container a{
+    color: #11999e;
+    text-decoration: none;
+    width: 100px;
+    display: inline-block;
+    margin-top: 40px;
+}
+.bottom-container p{
+    margin-top:40px; 
+    color: #eaf6f6;
+    font-size: 10px;
+    font-weight: lighter;
+}
+.bottom-container{
+     background-color: #66BFBF;
+    width: 100%;
+    height: 150px;
+    margin-top: 100px;
+    display: inline-block;
+    font-size: 14px;
+    position: relative;
+}
+
+.skill-row {
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-img{
+    height: 30%;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+p{
+    font-weight: 600;
+}
+.net-img{
+    height: 30%;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+.GIS-img{
+    height: 30%;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+hr{
+     border-style:none;
+    border-top-style: dotted;
+    border-color:#eaf6f6;
+    border-width: 6px;
+    width:5%;
+    margin: 70px auto 70px auto;
+}
+a:hover{
+    color:#eaf6f6;
+}
+.btn {
+    border-color: #66bfbf;
+    width: 10rem;
+   
+  background-image: -webkit-linear-gradient(top, #66bfbf, #119992);
+  background-image: -moz-linear-gradient(top, #66bfbf, #119992);
+  background-image: -ms-linear-gradient(top, #66bfbf, #119992);
+  background-image: -o-linear-gradient(top, #66bfbf, #119992);
+  background-image: linear-gradient(to bottom, #66bfbf, #119992);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #eaf6f6;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+    position: relative;
+    margin-top: 50px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+/*
+.skill-row p{
+    margin-left: 30px;
+}*/
+
+.rgba-gradient {
+    /* background: linear-gradient(rgba(255, 0, 0, 0.15), rgba(255, 0, 0, 0.15)); */
+/* 
+    background: linear-gradient (rgba(255, 0, 0, 0.45), rgba(255, 0, 0, 0.45)); */
+    /* background: -moz-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
+    background: -webkit-gradient(linear, 45deg, from(rgba(42, 27, 161, 0.2)), to(rgba(29, 210, 177, 0.2)));
+    background: -o-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
+    background: linear-gradient(to 45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%); */
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width: 740px) {
+  html,
+  body,
+  header,
+  .view {
+    height: 1000px;
+  }
+}
+@media (min-width: 800px) and (max-width: 850px) {
+  html,
+  body,
+  header,
+  .view {
+    height: 600px;
+  }
+} */
